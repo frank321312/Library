@@ -1,0 +1,11 @@
+/home/pc/Proyecto_Database/BiblioCore/bin/Debug/net8.0/BiblioCore.deps.json
+/home/pc/Proyecto_Database/BiblioCore/bin/Debug/net8.0/BiblioCore.dll
+/home/pc/Proyecto_Database/BiblioCore/bin/Debug/net8.0/BiblioCore.pdb
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/BiblioCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/BiblioCore.AssemblyInfoInputs.cache
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/BiblioCore.AssemblyInfo.cs
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/BiblioCore.csproj.CoreCompileInputs.cache
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/BiblioCore.dll
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/refint/BiblioCore.dll
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/BiblioCore.pdb
+/home/pc/Proyecto_Database/BiblioCore/obj/Debug/net8.0/ref/BiblioCore.dll

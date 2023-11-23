@@ -1,0 +1,15 @@
+/home/pc/Proyecto_Database/BiblioAdoDapper/bin/Debug/net8.0/BiblioAdoDapper.deps.json
+/home/pc/Proyecto_Database/BiblioAdoDapper/bin/Debug/net8.0/BiblioAdoDapper.dll
+/home/pc/Proyecto_Database/BiblioAdoDapper/bin/Debug/net8.0/BiblioAdoDapper.pdb
+/home/pc/Proyecto_Database/BiblioAdoDapper/bin/Debug/net8.0/BiblioCore.dll
+/home/pc/Proyecto_Database/BiblioAdoDapper/bin/Debug/net8.0/BiblioCore.pdb
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.csproj.AssemblyReference.cache
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.AssemblyInfoInputs.cache
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.AssemblyInfo.cs
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.csproj.CoreCompileInputs.cache
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.csproj.CopyComplete
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.dll
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/refint/BiblioAdoDapper.dll
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/BiblioAdoDapper.pdb
+/home/pc/Proyecto_Database/BiblioAdoDapper/obj/Debug/net8.0/ref/BiblioAdoDapper.dll

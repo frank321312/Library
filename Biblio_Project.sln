@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioCore", "BiblioCore\BiblioCore.csproj", "{FCC8138A-FCF9-47B1-9AFD-896E9DAD9DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioTest", "BiblioTest\BiblioTest.csproj", "{13C64C3C-7860-4056-8F36-F91E5B42FC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioAdoDapper", "BiblioAdoDapper\BiblioAdoDapper.csproj", "{52FAB302-C3DC-49B1-A797-2224611B18E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC8138A-FCF9-47B1-9AFD-896E9DAD9DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC8138A-FCF9-47B1-9AFD-896E9DAD9DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC8138A-FCF9-47B1-9AFD-896E9DAD9DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC8138A-FCF9-47B1-9AFD-896E9DAD9DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C64C3C-7860-4056-8F36-F91E5B42FC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C64C3C-7860-4056-8F36-F91E5B42FC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C64C3C-7860-4056-8F36-F91E5B42FC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C64C3C-7860-4056-8F36-F91E5B42FC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FAB302-C3DC-49B1-A797-2224611B18E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FAB302-C3DC-49B1-A797-2224611B18E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FAB302-C3DC-49B1-A797-2224611B18E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FAB302-C3DC-49B1-A797-2224611B18E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

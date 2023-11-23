@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLuDScLfy/LVvAyha+EIiY0hEVadp45Gd7DqdhLxkBrOVa91P9VsqMuk0Yu/jEVrxwPCY5QpYprqLu4b4J8QQw==",
+  "success": true,
+  "projectFilePath": "/home/pc/Proyecto_Database/BiblioAdoDapper/BiblioAdoDapper.csproj",
+  "expectedPackageFiles": [
+    "/home/pc/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
+    "/home/pc/.nuget/packages/mysqlconnector/2.2.7/mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}
